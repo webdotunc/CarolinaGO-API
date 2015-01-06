@@ -1,0 +1,1340 @@
+{
+    "areas": [
+        {
+            "area": "AAAD", 
+            "name": "African American Studies"
+        }, 
+        {
+            "area": "ACSM", 
+            "name": "Ambulatory Care"
+        }, 
+        {
+            "area": "ADJU", 
+            "name": "Administration of Justice"
+        }, 
+        {
+            "area": "AERO", 
+            "name": "Aerospace Studies"
+        }, 
+        {
+            "area": "AFAM", 
+            "name": "Afro American Studies"
+        }, 
+        {
+            "area": "AFRI", 
+            "name": "African Studies"
+        }, 
+        {
+            "area": "AHEC", 
+            "name": "Area Health Education Center"
+        }, 
+        {
+            "area": "AHSC", 
+            "name": "Allied Health Sciences"
+        }, 
+        {
+            "area": "AMST", 
+            "name": "American Studies"
+        }, 
+        {
+            "area": "ANAT", 
+            "name": "Anatomy"
+        }, 
+        {
+            "area": "ANES", 
+            "name": "Anesthesiology"
+        }, 
+        {
+            "area": "ANGL", 
+            "name": "East Anglia (England)"
+        }, 
+        {
+            "area": "ANTH", 
+            "name": "Anthropology"
+        }, 
+        {
+            "area": "ARAB", 
+            "name": "Arabic"
+        }, 
+        {
+            "area": "ARCH", 
+            "name": "Archaeology"
+        }, 
+        {
+            "area": "AREO", 
+            "name": "Aerospace Studies"
+        }, 
+        {
+            "area": "ARMY", 
+            "name": "Army"
+        }, 
+        {
+            "area": "ARTH", 
+            "name": "Art History"
+        }, 
+        {
+            "area": "ARTS", 
+            "name": "Studio Art"
+        }, 
+        {
+            "area": "ASHV", 
+            "name": "Ashville"
+        }, 
+        {
+            "area": "ASIA", 
+            "name": "Asian Studies"
+        }, 
+        {
+            "area": "ASTR", 
+            "name": "Astronomy"
+        }, 
+        {
+            "area": "BACT", 
+            "name": "Bacteriology"
+        }, 
+        {
+            "area": "BBSP", 
+            "name": "Biological and Biomedical Science"
+        }, 
+        {
+            "area": "BCB", 
+            "name": "Bioinformatics and Computational Biology"
+        }, 
+        {
+            "area": "BCHM", 
+            "name": "Biochemistry"
+        }, 
+        {
+            "area": "BEIJ", 
+            "name": "International Student Program (Beijing)"
+        }, 
+        {
+            "area": "BENG", 
+            "name": "Bengali"
+        }, 
+        {
+            "area": "BERL", 
+            "name": "Berlin (Germany)"
+        }, 
+        {
+            "area": "BIOC", 
+            "name": "Biochemistry and Biophysics"
+        }, 
+        {
+            "area": "BIOL", 
+            "name": "Biology"
+        }, 
+        {
+            "area": "BIOS", 
+            "name": "Biostatistics"
+        }, 
+        {
+            "area": "BMEJ", 
+            "name": "Participant BMEJ"
+        }, 
+        {
+            "area": "BMME", 
+            "name": "Biomedical Engineering"
+        }, 
+        {
+            "area": "BOLO", 
+            "name": "Bologna (Italy)"
+        }, 
+        {
+            "area": "BOTN", 
+            "name": "Botany"
+        }, 
+        {
+            "area": "BRIS", 
+            "name": "Bristol (England)"
+        }, 
+        {
+            "area": "BSCI", 
+            "name": "Biological Sciences"
+        }, 
+        {
+            "area": "BULG", 
+            "name": "Bulgarian"
+        }, 
+        {
+            "area": "BUSA", 
+            "name": "Business Study Abroad"
+        }, 
+        {
+            "area": "BUSG", 
+            "name": "Global Scholars Program"
+        }, 
+        {
+            "area": "BUSI", 
+            "name": "Business"
+        }, 
+        {
+            "area": "BUSS", 
+            "name": "Business Study Abroad - Short"
+        }, 
+        {
+            "area": "CAPS", 
+            "name": "Capstone Course"
+        }, 
+        {
+            "area": "CATA", 
+            "name": "Catalan"
+        }, 
+        {
+            "area": "CBAM", 
+            "name": "Cellular Biology and Anatomical Medicine"
+        }, 
+        {
+            "area": "CBIO", 
+            "name": "Cellular and Developmental Biology"
+        }, 
+        {
+            "area": "CBMC", 
+            "name": "Chemical Biology and Chemistry"
+        }, 
+        {
+            "area": "CDFS", 
+            "name": "Child, Developmental, and Family Studies"
+        }, 
+        {
+            "area": "CELT", 
+            "name": "Celtic"
+        }, 
+        {
+            "area": "CERT", 
+            "name": "Certificate Programs"
+        }, 
+        {
+            "area": "CHEM", 
+            "name": "Chemistry"
+        }, 
+        {
+            "area": "CHER", 
+            "name": "Cherokee"
+        }, 
+        {
+            "area": "CHIN", 
+            "name": "Chinese"
+        }, 
+        {
+            "area": "CHPM", 
+            "name": "Community Health"
+        }, 
+        {
+            "area": "CLAR", 
+            "name": "Classical Archaeology"
+        }, 
+        {
+            "area": "CLAS", 
+            "name": "Classics"
+        }, 
+        {
+            "area": "CLIC", 
+            "name": "Charlotte Longitudinal"
+        }, 
+        {
+            "area": "CLSC", 
+            "name": "Clinical and Laboratory Science"
+        }, 
+        {
+            "area": "CMPL", 
+            "name": "Comparative Literature"
+        }, 
+        {
+            "area": "COMM", 
+            "name": "Communications"
+        }, 
+        {
+            "area": "COMP", 
+            "name": "Computer Science"
+        }, 
+        {
+            "area": "COPE", 
+            "name": "Copenhagen (Denmark)"
+        }, 
+        {
+            "area": "CYTO", 
+            "name": "Cytotechnology"
+        }, 
+        {
+            "area": "CZCH", 
+            "name": "Czech"
+        }, 
+        {
+            "area": "DATE", 
+            "name": "Dental Auxiliary Teacher Education"
+        }, 
+        {
+            "area": "DDDD", 
+            "name": "Drug Delivery and Disposition"
+        }, 
+        {
+            "area": "DECO", 
+            "name": "Dental Ecology"
+        }, 
+        {
+            "area": "DENG", 
+            "name": "Dental Graduate Course"
+        }, 
+        {
+            "area": "DENT", 
+            "name": "Dentistry"
+        }, 
+        {
+            "area": "DERM", 
+            "name": "Dermatology"
+        }, 
+        {
+            "area": "DHYG", 
+            "name": "Dental Hygenics"
+        }, 
+        {
+            "area": "DNEC", 
+            "name": "Dentistry"
+        }, 
+        {
+            "area": "DPET", 
+            "name": "Experimental Therapeutics"
+        }, 
+        {
+            "area": "DPOP", 
+            "name": "Pharmacy Outcomes and Policy"
+        }, 
+        {
+            "area": "DPPE", 
+            "name": "Pharmaceutical Practical and Experiental Education"
+        }, 
+        {
+            "area": "DRAM", 
+            "name": "Drama"
+        }, 
+        {
+            "area": "DTCH", 
+            "name": "Dutch"
+        }, 
+        {
+            "area": "DUKE", 
+            "name": "Duke Interinstitutional"
+        }, 
+        {
+            "area": "EAST", 
+            "name": "East Asian Studies"
+        }, 
+        {
+            "area": "ECOL", 
+            "name": "Ecology"
+        }, 
+        {
+            "area": "ECON", 
+            "name": "Economics"
+        }, 
+        {
+            "area": "EDCI", 
+            "name": "Curriculum and Instructional"
+        }, 
+        {
+            "area": "EDFO", 
+            "name": "Educational Foundations"
+        }, 
+        {
+            "area": "EDMX", 
+            "name": "Experienced Teacher Education"
+        }, 
+        {
+            "area": "EDSP", 
+            "name": "Specialized Professional Education"
+        }, 
+        {
+            "area": "EDUC", 
+            "name": "Education"
+        }, 
+        {
+            "area": "EDUX", 
+            "name": "Experienced Teacher Education"
+        }, 
+        {
+            "area": "ELEC", 
+            "name": "Elective"
+        }, 
+        {
+            "area": "ENDO", 
+            "name": "Endotonics"
+        }, 
+        {
+            "area": "ENEC", 
+            "name": "Environment and Ecology"
+        }, 
+        {
+            "area": "ENGL", 
+            "name": "English and Comparative Literature"
+        }, 
+        {
+            "area": "ENST", 
+            "name": "Environmental Studies"
+        }, 
+        {
+            "area": "ENVR", 
+            "name": "Environment Sciences"
+        }, 
+        {
+            "area": "EPID", 
+            "name": "Epidemiology"
+        }, 
+        {
+            "area": "ERMD", 
+            "name": "Emergency Medicine"
+        }, 
+        {
+            "area": "EURO", 
+            "name": "European Studies"
+        }, 
+        {
+            "area": "EXSS", 
+            "name": "Exercise and Sport Science"
+        }, 
+        {
+            "area": "EXTN", 
+            "name": "Extension"
+        }, 
+        {
+            "area": "FLNG", 
+            "name": "Foreign Language"
+        }, 
+        {
+            "area": "FMED", 
+            "name": "Family Medicine"
+        }, 
+        {
+            "area": "FMME", 
+            "name": "Family Medicine"
+        }, 
+        {
+            "area": "FOLK", 
+            "name": "Folklore"
+        }, 
+        {
+            "area": "FREN", 
+            "name": "French"
+        }, 
+        {
+            "area": "GENR", 
+            "name": "General"
+        }, 
+        {
+            "area": "GEOG", 
+            "name": "Geography"
+        }, 
+        {
+            "area": "GEOL", 
+            "name": "Geology"
+        }, 
+        {
+            "area": "GERJ", 
+            "name": "Joint German at Duke"
+        }, 
+        {
+            "area": "GERM", 
+            "name": "German"
+        }, 
+        {
+            "area": "GHAN", 
+            "name": "Ghana"
+        }, 
+        {
+            "area": "GLBE", 
+            "name": "Global Health Elective"
+        }, 
+        {
+            "area": "GLBL", 
+            "name": "Global Studies"
+        }, 
+        {
+            "area": "GNET", 
+            "name": "Genetics and Molecular Biology"
+        }, 
+        {
+            "area": "GSLL", 
+            "name": "Germanic and Slavic Languages and Literature"
+        }, 
+        {
+            "area": "HADM", 
+            "name": "Health Administration"
+        }, 
+        {
+            "area": "HAUS", 
+            "name": "Hausa"
+        }, 
+        {
+            "area": "HBEH", 
+            "name": "Health Behavior"
+        }, 
+        {
+            "area": "HBHE", 
+            "name": "Health Behavior and Education"
+        }, 
+        {
+            "area": "HEBR", 
+            "name": "Hebrew"
+        }, 
+        {
+            "area": "HEED", 
+            "name": "Health Education"
+        }, 
+        {
+            "area": "HIND", 
+            "name": "Hindi/Urdu"
+        }, 
+        {
+            "area": "HIST", 
+            "name": "History"
+        }, 
+        {
+            "area": "HMSC", 
+            "name": "Human Movement Science"
+        }, 
+        {
+            "area": "HMTS", 
+            "name": "Humanities"
+        }, 
+        {
+            "area": "HNRS", 
+            "name": "Honors"
+        }, 
+        {
+            "area": "HNUR", 
+            "name": "Hindi/Urdu"
+        }, 
+        {
+            "area": "HOME", 
+            "name": "Home"
+        }, 
+        {
+            "area": "HORT", 
+            "name": "Horticulture"
+        }, 
+        {
+            "area": "HUMB", 
+            "name": "Human Biology"
+        }, 
+        {
+            "area": "HUNG", 
+            "name": "Hungarian"
+        }, 
+        {
+            "area": "HUSA", 
+            "name": "Human Services"
+        }, 
+        {
+            "area": "HYGI", 
+            "name": "Hygiene"
+        }, 
+        {
+            "area": "IBMS", 
+            "name": "Interdisciplinary Biomedical Sciences"
+        }, 
+        {
+            "area": "ICMU", 
+            "name": "Intro to Clinical Medicine for Undergraduates"
+        }, 
+        {
+            "area": "ICSR", 
+            "name": "International Center for Classical Studies Rome"
+        }, 
+        {
+            "area": "IDST", 
+            "name": "Interdisciplinary Studies"
+        }, 
+        {
+            "area": "IHMS", 
+            "name": "Interdisciplinary Human Movement Science"
+        }, 
+        {
+            "area": "IIOS", 
+            "name": "GA Online Interinstitutional"
+        }, 
+        {
+            "area": "INDO", 
+            "name": "Indonesian Languages"
+        }, 
+        {
+            "area": "INDR", 
+            "name": "Industrial Relations"
+        }, 
+        {
+            "area": "INFO", 
+            "name": "Information"
+        }, 
+        {
+            "area": "INLS", 
+            "name": "Information and Library Science"
+        }, 
+        {
+            "area": "INTI", 
+            "name": "Inter-institutional"
+        }, 
+        {
+            "area": "INTS", 
+            "name": "International Study"
+        }, 
+        {
+            "area": "ISRA", 
+            "name": "Hebrew University (Israel)"
+        }, 
+        {
+            "area": "ITAL", 
+            "name": "Italian"
+        }, 
+        {
+            "area": "JAPN", 
+            "name": "Japanese"
+        }, 
+        {
+            "area": "JOMC", 
+            "name": "Journalism and Mass Communication"
+        }, 
+        {
+            "area": "JOUR", 
+            "name": "Journalism"
+        }, 
+        {
+            "area": "JWST", 
+            "name": "Jewish Studies"
+        }, 
+        {
+            "area": "KANS", 
+            "name": "Kansai Gadai (Japan)"
+        }, 
+        {
+            "area": "KOR", 
+            "name": "Korean"
+        }, 
+        {
+            "area": "LATN", 
+            "name": "Latin"
+        }, 
+        {
+            "area": "LAW", 
+            "name": "Law"
+        }, 
+        {
+            "area": "LEED", 
+            "name": "Leeds (England)"
+        }, 
+        {
+            "area": "LFIT", 
+            "name": "Lifetime Fitness"
+        }, 
+        {
+            "area": "LFXP", 
+            "name": "Law Exchange Program"
+        }, 
+        {
+            "area": "LGLA", 
+            "name": "Lingala Language"
+        }, 
+        {
+            "area": "LIBS", 
+            "name": "Information and Library Science"
+        }, 
+        {
+            "area": "LIMA", 
+            "name": "Lima (Peru)"
+        }, 
+        {
+            "area": "LING", 
+            "name": "Linguistics"
+        }, 
+        {
+            "area": "LOND", 
+            "name": "London (England)"
+        }, 
+        {
+            "area": "LSA", 
+            "name": "Law Study Abroad"
+        }, 
+        {
+            "area": "LSEC", 
+            "name": "LSE Honors"
+        }, 
+        {
+            "area": "LSRA", 
+            "name": "Leisure/Recreational Administration"
+        }, 
+        {
+            "area": "LSSM", 
+            "name": "Life Support Skills in Medicine"
+        }, 
+        {
+            "area": "LTAM", 
+            "name": "Latin-American Studies"
+        }, 
+        {
+            "area": "LVE", 
+            "name": "Law"
+        }, 
+        {
+            "area": "LYON", 
+            "name": "Lyon (France)"
+        }, 
+        {
+            "area": "MAC", 
+            "name": "Masters of Accounting"
+        }, 
+        {
+            "area": "MACD", 
+            "name": "Macedonian"
+        }, 
+        {
+            "area": "MAHP", 
+            "name": "Medical Allied Health Professional"
+        }, 
+        {
+            "area": "MASC", 
+            "name": "Marine Science"
+        }, 
+        {
+            "area": "MATA", 
+            "name": "Yucatec Maya Language"
+        }, 
+        {
+            "area": "MATH", 
+            "name": "Mathematics"
+        }, 
+        {
+            "area": "MBA", 
+            "name": "Masters of Business Administration"
+        }, 
+        {
+            "area": "MCRO", 
+            "name": "Microbiology"
+        }, 
+        {
+            "area": "MDPH", 
+            "name": "MD/PhD Longitudinal Elective"
+        }, 
+        {
+            "area": "MEDC", 
+            "name": "Medicinal Chemistry"
+        }, 
+        {
+            "area": "MEDI", 
+            "name": "Medicine"
+        }, 
+        {
+            "area": "MEDT", 
+            "name": "Medical Technology"
+        }, 
+        {
+            "area": "MENH", 
+            "name": "Mental Health"
+        }, 
+        {
+            "area": "MEXI", 
+            "name": "International Student Program"
+        }, 
+        {
+            "area": "MHCH", 
+            "name": "Maternal and Child Health"
+        }, 
+        {
+            "area": "MISC", 
+            "name": "Miscellaeous"
+        }, 
+        {
+            "area": "MNDG", 
+            "name": "GA Statistics Report Registration"
+        }, 
+        {
+            "area": "MNGT", 
+            "name": "Management and Society"
+        }, 
+        {
+            "area": "MODC", 
+            "name": "Modern Civilization"
+        }, 
+        {
+            "area": "MONT", 
+            "name": "Montpellier (France)"
+        }, 
+        {
+            "area": "MSBS", 
+            "name": "Medical School Basic Science"
+        }, 
+        {
+            "area": "MTCS", 
+            "name": "Material Science"
+        }, 
+        {
+            "area": "MTEC", 
+            "name": "Medical Translational Education"
+        }, 
+        {
+            "area": "MUSC", 
+            "name": "Music"
+        }, 
+        {
+            "area": "NAVS", 
+            "name": "Naval Science"
+        }, 
+        {
+            "area": "NBIO", 
+            "name": "Neurobiology"
+        }, 
+        {
+            "area": "NCCU", 
+            "name": "North Carolina Central University"
+        }, 
+        {
+            "area": "NCSU", 
+            "name": "NC State"
+        }, 
+        {
+            "area": "NDSS", 
+            "name": "Neurodia and Sleep Dis Science"
+        }, 
+        {
+            "area": "NEUR", 
+            "name": "Neurology"
+        }, 
+        {
+            "area": "NORW", 
+            "name": "Norwegian"
+        }, 
+        {
+            "area": "NSP", 
+            "name": "National Student Program"
+        }, 
+        {
+            "area": "NURS", 
+            "name": "Nursing"
+        }, 
+        {
+            "area": "NUSJ", 
+            "name": "National University of Singapore Joint Programs"
+        }, 
+        {
+            "area": "NUTR", 
+            "name": "Health Nutrition"
+        }, 
+        {
+            "area": "NUTR", 
+            "name": "Nutrition"
+        }, 
+        {
+            "area": "OBGN", 
+            "name": "Obstetrics and Gynecology"
+        }, 
+        {
+            "area": "OBIO", 
+            "name": "Oral Biology"
+        }, 
+        {
+            "area": "OCCT", 
+            "name": "Medical Applied Health Profession"
+        }, 
+        {
+            "area": "OCSC", 
+            "name": "Occupational Science"
+        }, 
+        {
+            "area": "ODTP", 
+            "name": "Oral Diagnosis"
+        }, 
+        {
+            "area": "OMED", 
+            "name": "Offices od Medical Education"
+        }, 
+        {
+            "area": "OMSU", 
+            "name": "Oral Surgery"
+        }, 
+        {
+            "area": "OPER", 
+            "name": "Dentistry Operative"
+        }, 
+        {
+            "area": "OPHT", 
+            "name": "Ophthalmology"
+        }, 
+        {
+            "area": "OR", 
+            "name": "Operations Research"
+        }, 
+        {
+            "area": "ORAD", 
+            "name": "Oral Radiology"
+        }, 
+        {
+            "area": "ORDI", 
+            "name": "Oral Diagnosis"
+        }, 
+        {
+            "area": "ORLN", 
+            "name": "Oriental Languages"
+        }, 
+        {
+            "area": "ORPA", 
+            "name": "Oral Pathology"
+        }, 
+        {
+            "area": "ORSA", 
+            "name": "Operations Research and Systems Analysis"
+        }, 
+        {
+            "area": "ORSU", 
+            "name": "Oral Surgery"
+        }, 
+        {
+            "area": "ORTH", 
+            "name": "Orthodontics"
+        }, 
+        {
+            "area": "ORTS", 
+            "name": "Orthopedics"
+        }, 
+        {
+            "area": "OTOL", 
+            "name": "Otolaryngology"
+        }, 
+        {
+            "area": "OXFO", 
+            "name": "Oxford (England)"
+        }, 
+        {
+            "area": "PACE", 
+            "name": "Practicum and Clinical Education"
+        }, 
+        {
+            "area": "PADM", 
+            "name": "Public Administration"
+        }, 
+        {
+            "area": "PALP", 
+            "name": "Parasitology and Lab Practice"
+        }, 
+        {
+            "area": "PATH", 
+            "name": "Pathology"
+        }, 
+        {
+            "area": "PATY", 
+            "name": "Pathology"
+        }, 
+        {
+            "area": "PEDI", 
+            "name": "Pediatrics"
+        }, 
+        {
+            "area": "PEDO", 
+            "name": "Pediatric Dentistry"
+        }, 
+        {
+            "area": "PEDS", 
+            "name": "Periodontology"
+        }, 
+        {
+            "area": "PERS", 
+            "name": "Personnel Administration"
+        }, 
+        {
+            "area": "PERU", 
+            "name": "International Elective in Peru"
+        }, 
+        {
+            "area": "PHAD", 
+            "name": "Pharmacy Administration"
+        }, 
+        {
+            "area": "PHAR", 
+            "name": "Pharmacy"
+        }, 
+        {
+            "area": "PHCG", 
+            "name": "Pharmacognosy"
+        }, 
+        {
+            "area": "PHCO", 
+            "name": "Pharmacology"
+        }, 
+        {
+            "area": "PHCY", 
+            "name": "Pharmacy"
+        }, 
+        {
+            "area": "PHCY", 
+            "name": "Pharmacy (none-departmental)"
+        }, 
+        {
+            "area": "PHED", 
+            "name": "Health Education"
+        }, 
+        {
+            "area": "PHIL", 
+            "name": "Philosophy"
+        }, 
+        {
+            "area": "PHPR", 
+            "name": "Pharmacy Practice"
+        }, 
+        {
+            "area": "PHRS", 
+            "name": "Pharmaceutical Sciences"
+        }, 
+        {
+            "area": "PHTH", 
+            "name": "Pharmacotherapy"
+        }, 
+        {
+            "area": "PHYA", 
+            "name": "Physical Activities"
+        }, 
+        {
+            "area": "PHYE", 
+            "name": "Physical Education"
+        }, 
+        {
+            "area": "PHYI", 
+            "name": "Physiology"
+        }, 
+        {
+            "area": "PHYS", 
+            "name": "Physics"
+        }, 
+        {
+            "area": "PHYY", 
+            "name": "Physiology"
+        }, 
+        {
+            "area": "PLAN", 
+            "name": "City and Regional Planning"
+        }, 
+        {
+            "area": "PLCY", 
+            "name": "Public Policy"
+        }, 
+        {
+            "area": "PLSH", 
+            "name": "Polish"
+        }, 
+        {
+            "area": "PMED", 
+            "name": "Physical Medicine and Rehabilitation"
+        }, 
+        {
+            "area": "POLI", 
+            "name": "Political Science"
+        }, 
+        {
+            "area": "PORT", 
+            "name": "Portuguese"
+        }, 
+        {
+            "area": "PPES", 
+            "name": "Pharmacy Policy and Evaluation Science"
+        }, 
+        {
+            "area": "PROS", 
+            "name": "Prosthodontics"
+        }, 
+        {
+            "area": "PRSN", 
+            "name": "Persian"
+        }, 
+        {
+            "area": "PSNU", 
+            "name": "Psychology/neuroscience clerkship"
+        }, 
+        {
+            "area": "PSYC", 
+            "name": "Psychology"
+        }, 
+        {
+            "area": "PSYI", 
+            "name": "Physiology"
+        }, 
+        {
+            "area": "PSYY", 
+            "name": "Psychiatry"
+        }, 
+        {
+            "area": "PUBA", 
+            "name": "Public Administration"
+        }, 
+        {
+            "area": "PUBH", 
+            "name": "Public Health"
+        }, 
+        {
+            "area": "PUPA", 
+            "name": "Public Policy Analysis"
+        }, 
+        {
+            "area": "PVME", 
+            "name": "Preventative Medicine"
+        }, 
+        {
+            "area": "PWAD", 
+            "name": "Peace, War, and Defense"
+        }, 
+        {
+            "area": "RADG", 
+            "name": "Radiography"
+        }, 
+        {
+            "area": "RADI", 
+            "name": "Radiologic Science"
+        }, 
+        {
+            "area": "RECR", 
+            "name": "Recreation and Leisure Studies"
+        }, 
+        {
+            "area": "RELI", 
+            "name": "Religion"
+        }, 
+        {
+            "area": "REST", 
+            "name": "Russian and East European Studies"
+        }, 
+        {
+            "area": "RFIX", 
+            "name": "Conversation Record Fix"
+        }, 
+        {
+            "area": "RHAB", 
+            "name": "Rehabilitation Therapy"
+        }, 
+        {
+            "area": "RLGE", 
+            "name": "Romance Languages Graduate Exchange"
+        }, 
+        {
+            "area": "ROBT", 
+            "name": "Robertson Scholars Program"
+        }, 
+        {
+            "area": "ROMA", 
+            "name": "Romanian"
+        }, 
+        {
+            "area": "ROML", 
+            "name": "Romance Languages"
+        }, 
+        {
+            "area": "RPSY", 
+            "name": "Rehabilitation Psychology and Counsel"
+        }, 
+        {
+            "area": "RTVM", 
+            "name": "Radio TV. and Mo. Pict"
+        }, 
+        {
+            "area": "RUES", 
+            "name": "Russian and East European Studies"
+        }, 
+        {
+            "area": "RUMA", 
+            "name": "Rumanian"
+        }, 
+        {
+            "area": "RUSS", 
+            "name": "Russian"
+        }, 
+        {
+            "area": "SADM", 
+            "name": "Social and Administrative Medicine"
+        }, 
+        {
+            "area": "SANS", 
+            "name": "Sanskrit"
+        }, 
+        {
+            "area": "SECR", 
+            "name": "Serban and Croatian"
+        }, 
+        {
+            "area": "SERB", 
+            "name": "Serbo-Croatian"
+        }, 
+        {
+            "area": "SEVI", 
+            "name": "Seville (Spain)"
+        }, 
+        {
+            "area": "SIEN", 
+            "name": "Siena (Spain)"
+        }, 
+        {
+            "area": "SLAV", 
+            "name": "Slavic Languages"
+        }, 
+        {
+            "area": "SMBC", 
+            "name": "Seminar Online - Boston College"
+        }, 
+        {
+            "area": "SMEU", 
+            "name": "Seminar Online - Emory University"
+        }, 
+        {
+            "area": "SMND", 
+            "name": "Seminar Online - University of Notre Dame"
+        }, 
+        {
+            "area": "SMNW", 
+            "name": "Seminar Online - Northwestern University"
+        }, 
+        {
+            "area": "SMWU", 
+            "name": "Seminar Online - Washington University in St. Louis"
+        }, 
+        {
+            "area": "SOCI", 
+            "name": "Sociology"
+        }, 
+        {
+            "area": "SOCM", 
+            "name": "Social Medicine"
+        }, 
+        {
+            "area": "SOWO", 
+            "name": "Social Work"
+        }, 
+        {
+            "area": "SPAN", 
+            "name": "Spanish"
+        }, 
+        {
+            "area": "SPCH", 
+            "name": "Speech Communication"
+        }, 
+        {
+            "area": "SPCL", 
+            "name": "Experiental and Special Studies"
+        }, 
+        {
+            "area": "SPHG", 
+            "name": "School of Public Health General"
+        }, 
+        {
+            "area": "SPHS", 
+            "name": "Speech and Hearing Sciences"
+        }, 
+        {
+            "area": "SSAP", 
+            "name": "Summer Study Abroad"
+        }, 
+        {
+            "area": "SSCI", 
+            "name": "Sociology"
+        }, 
+        {
+            "area": "STAN", 
+            "name": "St. Andrews (Scotland)"
+        }, 
+        {
+            "area": "STAT", 
+            "name": "Statistics"
+        }, 
+        {
+            "area": "STOR", 
+            "name": "Statistics and Operations Research"
+        }, 
+        {
+            "area": "SURG", 
+            "name": "Surgery"
+        }, 
+        {
+            "area": "SURS", 
+            "name": "Critical Care Select/Surgery"
+        }, 
+        {
+            "area": "SUSS", 
+            "name": "Sussex (England)"
+        }, 
+        {
+            "area": "SWAH", 
+            "name": "Swahili"
+        }, 
+        {
+            "area": "SWED", 
+            "name": "Swedish"
+        }, 
+        {
+            "area": "TAML", 
+            "name": "Tamil"
+        }, 
+        {
+            "area": "THAI", 
+            "name": "Thai Language"
+        }, 
+        {
+            "area": "THER", 
+            "name": "Theraputics"
+        }, 
+        {
+            "area": "TOXC", 
+            "name": "Toxicology"
+        }, 
+        {
+            "area": "TRAN", 
+            "name": "Academic Transfer Hours"
+        }, 
+        {
+            "area": "TREQ", 
+            "name": "Transfer Equivalency"
+        }, 
+        {
+            "area": "TUBI", 
+            "name": "Tubigen (Germany)"
+        }, 
+        {
+            "area": "TURK", 
+            "name": "Turkish"
+        }, 
+        {
+            "area": "UNCA", 
+            "name": "UNC Asheville"
+        }, 
+        {
+            "area": "UNCC", 
+            "name": "UNC Charlotte"
+        }, 
+        {
+            "area": "UNCG", 
+            "name": "UNC Greensboro"
+        }, 
+        {
+            "area": "UNCW", 
+            "name": "UNC Wilmington"
+        }, 
+        {
+            "area": "URST", 
+            "name": "Urban Studies"
+        }, 
+        {
+            "area": "VET", 
+            "name": "Vietnamese"
+        }, 
+        {
+            "area": "WOLL", 
+            "name": "Wollongong (Australian)"
+        }, 
+        {
+            "area": "WOLO", 
+            "name": "Wolof Lanuage"
+        }, 
+        {
+            "area": "WOMC", 
+            "name": "Women's and Sexuality Studies"
+        }, 
+        {
+            "area": "YAP", 
+            "name": "Year Abroad Program"
+        }, 
+        {
+            "area": "ZOOL", 
+            "name": "Zoology"
+        }
+    ]
+}

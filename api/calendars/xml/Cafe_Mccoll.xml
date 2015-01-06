@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<xml>
+	<location>
+		<name>Einstein Bros Bagels</name>
+		<mapName>Einstein Bros Bagels</mapName>
+		<description></description>
+		<eventsFeedConfig>
+			<baseURL>http://unc.edu/kurogo/api/calendars/dining/dining-einstein_bros_bagels.ics</baseURL>	
+		</eventsFeedConfig>
+	</location>
+	<location>
+		<name>Grab &amp; Go</name>
+		<mapName>Grab &amp; Go</mapName>
+		<description></description>
+		<eventsFeedConfig>
+			<baseURL>http://unc.edu/kurogo/api/calendars/dining/dining-cosmic_cantina_cafe_mccoll.ics</baseURL>
+			
+		</eventsFeedConfig>
+	</location>
+	<location>
+		<name>McColl Grill</name>
+		<mapName>McColl Grill</mapName>
+		<description></description>
+		<eventsFeedConfig>
+			<baseURL>http://unc.edu/kurogo/api/calendars/dining/dining-grille_works.ics</baseURL>
+			
+		</eventsFeedConfig>
+	</location>
+	<location>
+		<name>Salad Bar</name>
+		<mapName>Salad Bar</mapName>
+		<description></description>
+		<eventsFeedConfig>
+			<baseURL>http://unc.edu/kurogo/api/calendars/dining/dining-salad_bar_cafe_mccoll.ics</baseURL>
+			
+		</eventsFeedConfig>
+	</location>
+</xml>

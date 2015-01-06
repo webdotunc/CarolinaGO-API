@@ -1,0 +1,236 @@
+<?xml version="1.0"?>
+<xml>
+	<location>
+		<name>Davis Library</name>
+		<description>The Walter Royal Davis Library is the 
+central library for the UNC campus. Most humanities, social science, 
+business, and foreign language materials are here, along with maps, 
+government information, data collections, and microforms, plus eight 
+floors of work and study space. The entrance is locked 15 minutes before 
+the library closes.
+        </description>
+		<mapName>Davis Library</mapName>
+		<summary>Walter Royal Davis Library</summary>
+        <url>http://library.unc.edu/davis/</url>
+		<eventsFeedConfig>
+          <itemtype>event-html-description</itemtype>
+			
+<baseURL>https://www.google.com/calendar/ical/o7sbm9e96tcp2j4q4faf4enm2k%40group.calendar.google.com/public/basic.ics</baseURL>
+		</eventsFeedConfig>
+	</location>
+    
+	<location>
+		<name>Art (Sloane) Library</name>
+		<description>The Joseph Curtis Sloane Art Library's 
+collection of more than 100,000 volumes includes a range of resources on 
+the history art worldwide from prehistoric times to the 
+present.</description>
+		<mapName>Joseph Curtis Sloane Art Library</mapName>
+		<summary></summary>
+		<eventsFeedConfig>
+            <itemtype>event-html-description</itemtype>
+			
+<baseURL>https://www.google.com/calendar/ical/cjbq8e3saufug5v4i2i1vrotvs%40group.calendar.google.com/public/basic.ics</baseURL>
+		</eventsFeedConfig>
+	</location>
+    
+    
+	<location>
+		<name>Government (Knapp) Library</name>
+		<description>The Joseph Palmer Knapp Library houses a 
+large collection of material on state and local government, public 
+administration, and management to support the School's instructional and 
+research programs and the educational mission of the Master of Public 
+Administration program. Reference and research services are available to 
+all residents of North Carolina, and additional assistance is available 
+to state and local government personnel, both elected and 
+appointed.</description>
+		<mapName>Government (Knapp) Library</mapName>
+		<summary>Joseph Palmer Knapp Government 
+Library</summary>
+        <url></url>
+		<eventsFeedConfig>
+            <itemtype>event-html-description</itemtype>
+			
+<baseURL>https://www.google.com/calendar/ical/4af6bi4ejs4fcjahpsm16sv9js%40group.calendar.google.com/public/basic.ics</baseURL>
+		</eventsFeedConfig>
+	</location>
+    
+	<location>
+		<name>Health Sciences Library</name>
+		<description>The Health Sciences Library (HSL) is the 
+primary library for the Schools of Dentistry, Medicine, Nursing, 
+Pharmacy, Public Health, and UNC Hospitals, and also serves all of UNC 
+and the general public. The library provides access to a comprehensive 
+collection of health sciences journals and books. The building has open 
+study space, 20 small group study rooms, 2 teaching labs, a 
+collaboration center, two well-equipped public conference rooms, and a 
+coffee shop</description>
+		<mapName>Health Sciences Library</mapName>
+		<summary></summary>
+		<eventsFeedConfig>
+            <itemtype>event-html-description</itemtype>
+			
+<baseURL>https://www.google.com/calendar/ical/a5462b94082o2m9enc84pbi8r4%40group.calendar.google.com/public/basic.ics</baseURL>
+		</eventsFeedConfig>
+	</location>
+    
+	<location>
+		<name>Information and Library Science Library</name>
+		<description>Our branch library collection contains over 
+99,000 volumes with comprehensive resources in the subject areas of 
+library and information science. Additionally, this library has the 
+largest children’s, young adult, and graphic novel collections on the 
+UNC-Chapel Hill campus.</description>
+		<mapName>Information and Library Science 
+Library</mapName>
+		<summary></summary>
+        <url>http://library.unc.edu/sils/</url>
+		<eventsFeedConfig>
+            <itemtype>event-html-description</itemtype>
+			
+<baseURL>https://www.google.com/calendar/ical/va303jvvoj2bcitrgtoeflo5hk%40group.calendar.google.com/public/basic.ics</baseURL>
+		</eventsFeedConfig>
+	</location>
+    
+	<location>
+		<name>Journalism (Park) Library</name>
+		<description>The Park Library supports the School of 
+Journalism and Mass Communication's mission by teaching journalism, 
+advertising, and public relations students and providing space for quiet 
+study. We have 10 Macs, a scanner, and a Bloomberg 
+terminal.</description>
+		<mapName>Journalism (Park) Library</mapName>
+		<summary></summary>
+        <url></url>
+		<eventsFeedConfig>
+            <itemtype>event-html-description</itemtype>
+			
+<baseURL>https://www.google.com/calendar/ical/8bmr6qs7frajhvdhiaou8pf74g%40group.calendar.google.com/public/basic.ics</baseURL>
+		</eventsFeedConfig>
+	</location>
+	<location>
+		<name>Law Library</name>
+		<description>The Kathrine R. Everett Law Library 
+supports the education of Carolina Law students, acts as a research 
+partner with faculty and students, and serves the legal information 
+needs of University students and faculty, the legal community, and the 
+residents of North Carolina. Access to the building is restricted after 
+5pm and on weekends. To access the Law Library, please use the rightmost 
+rotunda door, which is unlocked all the hours the library is open. If 
+you are unable to enter the building during the posted library hours, 
+please call the Law Library Circulation Desk at (919) 
+962-1191.</description>
+		<mapName>Law Library</mapName>
+		<summary>Kathrine R. Everett Law Library</summary>
+        <url></url>
+		<eventsFeedConfig>
+            <itemtype>event-html-description</itemtype>
+			
+<baseURL>https://www.google.com/calendar/ical/fbbvki6g8evskas7k0913dp36k%40group.calendar.google.com/public/basic.ics</baseURL>
+		</eventsFeedConfig>
+	</location>
+    
+	<location>
+		<name>Music Library</name>
+		<description>The UNC-Chapel Hill Music Library is among 
+the top 10 academic music libraries in the country. It serves the 
+classroom and research needs of the Department of Music, other academic 
+areas on campus, and the needs of national and international 
+users.</description>
+		<mapName>Music Library</mapName>
+		<summary></summary>
+        <url></url>
+		<eventsFeedConfig>
+            <itemtype>event-html-description</itemtype>
+			
+<baseURL>https://www.google.com/calendar/ical/355hahbuum51ju3upjp7ffnnuc%40group.calendar.google.com/public/basic.ics</baseURL>
+		</eventsFeedConfig>
+	</location>
+    
+	<location>
+		<name>Science (Kenan) Library</name>
+		<description>The Kenan Science Library in Venable Hall 
+is the center for information services in mathematics and the physical 
+sciences. We have four reservable group study rooms and the 
+Collaboratory with public workstations and scanners.</description>
+		<mapName>Science (Kenan) Library</mapName>
+		<summary>Kenan Science Library in Venable Hall</summary>
+        <url></url>
+		<eventsFeedConfig>
+            <itemtype>event-html-description</itemtype>
+			
+<baseURL>https://www.google.com/calendar/ical/5a8banst0nf7i67tfqqi3b64vc%40group.calendar.google.com/public/basic.ics</baseURL>
+		</eventsFeedConfig>
+	</location>
+    
+	<location>
+		<name>Science Library Annex</name>
+		<description>The Science Library Annex in Wilson Library 
+houses the majority of the on-campus collection of natural and 
+mathematical sciences.</description>
+		<mapName>Science Library Annex</mapName>
+		<summary></summary>
+        <url></url>
+		<eventsFeedConfig>
+            <itemtype>event-html-description</itemtype>
+			
+<baseURL>https://www.google.com/calendar/ical/qvenlim55joak57uip4s5k1kdg%40group.calendar.google.com/public/basic.ics</baseURL>
+		</eventsFeedConfig>
+	</location>
+    
+	<location>
+		<name>Stone Center Library</name>
+		<description>The Stone Center Library gathers works on 
+the African American experience and the African Diaspora.</description>
+		<mapName>Stone Center Library</mapName>
+		<summary>Sonja Haynes Stone Center Library</summary>
+        <url>http://library.unc.edu/stone/</url>
+		<eventsFeedConfig>
+            <itemtype>event-html-description</itemtype>
+			
+<baseURL>https://www.google.com/calendar/ical/rdelaf76hskita90fo467flkb0%40group.calendar.google.com/public/basic.ics</baseURL>
+		</eventsFeedConfig>
+	</location>
+    
+	<location>
+		<name>Undergraduate (House) Library</name>
+		<description>The R. B. House Undergraduate Library 
+supports the research, teaching, and learning needs of the University 
+community by providing access to core undergraduate collections, as well 
+as research, instruction, and technology support. Doors are locked 15 
+minutes before closing. Only UNC and TRLN affiliates are admitted 
+between 12am – 7am.</description>
+		<mapName>Undergraduate (House) Library</mapName>
+		<summary>Robert Burton House Undergraduate 
+Library</summary>
+        <url>http://library.unc.edu/house/</url>
+		<eventsFeedConfig>
+            <itemtype>event-html-description</itemtype>
+			
+<baseURL>https://www.google.com/calendar/ical/6g26usknvjaifqe2i1vmbvocok%40group.calendar.google.com/public/basic.ics</baseURL>
+		</eventsFeedConfig>
+	</location>
+    
+	<location>
+		<name>Wilson Special Collections Library</name>
+		<description>The Wilson Library is home to five special 
+collections: The North Carolina Collection, the Rare Book Collection, 
+the Southern Folklife Collection, the Southern Historical Collection, 
+and the University Archives and Records Management Services. Wilson 
+Library is open to all students, scholars, and the public for research 
+and quiet study. Throughout the year, the Library’s collections offer 
+public events and exhibitions that highlight their rare and unique 
+materials.</description>
+		<mapName>Wilson Special Collections Library</mapName>
+		<summary></summary>
+        <url>http://library.unc.edu/wilson/</url>
+		<eventsFeedConfig>
+            <itemtype>event-html-description</itemtype>
+			
+<baseURL>https://www.google.com/calendar/ical/0g1b7l2bt8bsgqsff0a3f1uja4%40group.calendar.google.com/public/basic.ics</baseURL>
+		</eventsFeedConfig>
+	</location>
+</xml>
+
+

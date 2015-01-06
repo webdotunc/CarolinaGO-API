@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<xml>
+	<location>
+		<name>Alpine Bagel</name>
+		<description></description>
+		<mapName>Alpine Bagel</mapName>
+		<summary></summary>
+        <url></url>
+		<eventsFeedConfig>
+          <itemtype>event-html-description</itemtype>
+			<baseURL>http://unc.edu/kurogo/api/calendars/dining/dining-alpine_bagel.ics</baseURL>
+		</eventsFeedConfig>
+	</location>
+	<location>
+		<name>Wendy&#39;s</name>
+		<description></description>
+		<mapName>Wendy&#39;s</mapName>
+		<summary></summary>
+		<eventsFeedConfig>
+            <itemtype>event-html-description</itemtype>
+			<baseURL>http://unc.edu/kurogo/api/calendars/dining/dining-wendy_s.ics</baseURL>
+		</eventsFeedConfig>
+	</location>
+</xml>
+

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<xml>
+	<location>
+		<name>Chick-fil-A</name>
+		<mapName>Chick-fil-A</mapName>
+		<description></description>
+		<eventsFeedConfig>
+			<baseURL>http://unc.edu/kurogo/api/calendars/dining/dining-chick_fil_a_location.ics</baseURL>	
+		</eventsFeedConfig>
+	</location>
+	<location>
+		<name>EspressOasis</name>
+		<mapName>EspressOasis</mapName>
+		<description></description>
+		<eventsFeedConfig>
+			<baseURL>http://unc.edu/kurogo/api/calendars/dining/dining-expressoasis_location.ics</baseURL>
+			
+		</eventsFeedConfig>
+	</location>
+	<location>
+		<name>Grab &amp; Go</name>
+		<mapName>Grab &amp; Go</mapName>
+		<description></description>
+		<eventsFeedConfig>
+			<baseURL>http://unc.edu/kurogo/api/calendars/dining/dining-med_deli_the_beach.ics</baseURL>
+			
+		</eventsFeedConfig>
+	</location>
+	<location>
+		<name>Greens</name>
+		<mapName>Greens</mapName>
+		<description></description>
+		<eventsFeedConfig>
+			<baseURL>http://unc.edu/kurogo/api/calendars/dining/dining-greens.ics</baseURL>
+			
+		</eventsFeedConfig>
+	</location>
+	<location>
+		<name>Quiznos</name>
+		<mapName>Quiznos</mapName>
+		<description></description>
+		<eventsFeedConfig>
+			<baseURL>http://unc.edu/kurogo/api/calendars/dining/dining-quiznos.ics</baseURL>
+			
+		</eventsFeedConfig>
+	</location>
+</xml>

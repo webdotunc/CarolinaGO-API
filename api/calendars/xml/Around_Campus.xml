@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<xml>
+	<location>
+		<name>Alpine Deli &amp; Cafe</name>
+		<mapName>Alpine Deli &amp; Cafe</mapName>
+		<description></description>
+		<eventsFeedConfig>
+			<baseURL>http://unc.edu/kurogo/api/calendars/dining/dining-einstein_bros_bagels.ics</baseURL>	
+		</eventsFeedConfig>
+	</location>
+	<location>
+		<name>Administrative Office Building</name>
+		<mapName>Administrative Office Building</mapName>
+		<description></description>
+		<eventsFeedConfig>
+			<baseURL>http://unc.edu/kurogo/api/calendars/dining/dining-aob.ics</baseURL>
+			
+		</eventsFeedConfig>
+	</location>
+	<location>
+		<name>Blue Ram</name>
+		<mapName>Blue Ram</mapName>
+		<description></description>
+		<eventsFeedConfig>
+			<baseURL>http://unc.edu/kurogo/api/calendars/dining/dining-blue_ram.ics</baseURL>
+			
+		</eventsFeedConfig>
+	</location>
+	<location>
+		<name>Friends Cafe</name>
+		<mapName>Friends Cafe</mapName>
+		<description></description>
+		<eventsFeedConfig>
+			<baseURL>http://unc.edu/kurogo/api/calendars/dining/dining-friends_cafe.ics</baseURL>
+			
+		</eventsFeedConfig>
+	</location>
+	<location>
+		<name>Kind Coffee</name>
+		<mapName>Kind Coffee</mapName>
+		<description></description>
+		<eventsFeedConfig>
+			<baseURL>http://unc.edu/kurogo/api/calendars/dining/dining-kind_coffee.ics</baseURL>
+			
+		</eventsFeedConfig>
+	</location>
+	<location>
+		<name>Raynor Food Center</name>
+		<mapName>Raynor Food Center</mapName>
+		<description></description>
+		<eventsFeedConfig>
+			<baseURL>http://unc.edu/kurogo/api/calendars/dining/dining-raynor_food_center.ics</baseURL>
+			
+		</eventsFeedConfig>
+	</location>
+	<location>
+		<name>Subway</name>
+		<mapName>Subway</mapName>
+		<description></description>
+		<eventsFeedConfig>
+			<baseURL>http://unc.edu/kurogo/api/calendars/dining/dining-subway.ics</baseURL>
+			
+		</eventsFeedConfig>
+	</location>
+	<location>
+		<name>The Atrium</name>
+		<mapName>The Atrium</mapName>
+		<description></description>
+		<eventsFeedConfig>
+			<baseURL>http://unc.edu/kurogo/api/calendars/dining/dining-the_atrium.ics</baseURL>
+			
+		</eventsFeedConfig>
+	</location>
+</xml>

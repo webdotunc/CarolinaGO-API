@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteRule terms feeder.php
+RewriteRule catalogAreas/([0-9]+)$ feeder.php?term=$1
+RewriteRule catalog/([0-9]+)/([A-Z]+)$ feeder.php?term=$1&area=$2
+RewriteRule catalog/([0-9]+)/search/([A-Za-z+]+)$ feeder.php?term=$1&search=$2
+RewriteRule catalog/([0-9]+)/([A-Z]+)/search/([0-9A-Za-z+\ ]+)$ feeder.php?term=$1&area=$2&search=$3
+

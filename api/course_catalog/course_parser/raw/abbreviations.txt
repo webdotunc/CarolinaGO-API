@@ -1,0 +1,670 @@
+
+<p class="body"><a name="top" id="top"></a></p>
+<script src="header.js"></script>
+<p class="body"></p>
+<p class="intro-head">Course Abbreviations</p>
+<p class="body"></p>
+<table cellpadding="4" class="No-Table-Style table-style-override-1" id="table-1">
+  <colgroup>
+  <col class="Row-Column-3" />
+  <col class="Row-Column-4" />
+  <col class="Row-Column-5" />
+  </colgroup>
+  <tbody>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body"><strong>Abbreviation</strong> </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body"><strong>Full Name</strong> </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body"><strong>Administrative Home</strong></p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-7">
+      <td valign="top" class="cell-style-override-1"><p class="body">AAAD </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">African, African American, <br />
+          and Diaspora Studies</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of African, African American, and Diaspora Studies</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">AERO</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Aerospace Studies</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Aerospace Studies</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">AHSC</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Allied Health Sciences</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Allied Health Sciences, UNC School of Medicine</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">AMST </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">American Studies </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of American Studies</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" bgcolor="#c4dffa" class="cell-style-override-1"><p class="body">ANTH </p></td>
+      <td valign="top" bgcolor="#c4dffa" class="cell-style-override-1"><p class="body">Anthropology </p></td>
+      <td valign="top" bgcolor="#c4dffa" class="cell-style-override-1"><p class="body">Department of Anthropology</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">APPL </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Applied Sciences</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Applied Physical Sciences</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">ARAB </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Arabic</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Asian Studies</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">ARCH </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Archaeology</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Curriculum in Archaeology</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">ARMY </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Army</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Military Science</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">ARTH </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Art History</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Art</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">ARTS</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Studio Art</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Art</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">ASIA </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Asian Studies </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Asian Studies</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">ASTR </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Astronomy</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Physics and Astronomy</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">BENG </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Bengali</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Asian Studies</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">BIOC </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Biochemistry</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Biochemistry and Biophysics</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">BIOL </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Biology</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Biology</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">BIOS </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Biostatistics</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Gillings School of Global Public Health</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">BMME </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Biomedical Engineering</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Biomedical Engineering</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">BUSA </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Business Study Abroad</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Kenan&#150;Flagler Business School</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">BUSG </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Global Scholars Program</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Kenan&#150;Flagler Business School</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">BUSI </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Business Administration</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Kenan&#150;Flagler Business School</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">BUSS</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Business Study Abroad</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Kenan&#150;Flagler Business School</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">CATA </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Catalan</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Romance Languages and Literatures</p></td>
+    </tr>
+    <tr class="Row-Column-7">
+      <td valign="top" class="cell-style-override-1"><p class="body">CBIO </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Cell and Developmental Biology </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Cell Biology and Physiology, <br />
+          UNC School of Medicine</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">CHEM </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Chemistry</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Chemistry</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">CHER </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Cherokee</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of American Studies</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">CHIN </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Chinese</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Asian Studies</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">CHWA </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Chichewa</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of African, African American, and Diaspora Studies</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">CLAR </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Classical Archeology </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Classics</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">CLAS </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Classics</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Classics</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">CLSC</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Clinical Laboratory Science</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Division of Clinical Laboratory Science, UNC School of Medicine</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">CMPL </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Comparative Literature </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of English and Comparative Literature</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">COMM </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Communication Studies </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Communication Studies</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">COMP </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Computer Science </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Computer Science</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">CZCH </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Czech</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Germanic and Slavic Languages and Literatures</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">DHYG </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Dental Hygiene </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">School of Dentistry</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">DPOP </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Pharmaceutical Outcomes and Policy </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Eshelman School of Pharmacy</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">DRAM </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Dramatic Art </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Dramatic Art</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">DTCH </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Dutch</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Germanic and Slavic Languages and Literatures</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">ECON </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Economics</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Economics</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">EDUC </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Education</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">School of Education</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">ENEC</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Environment and Ecology</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Curriculum for the Environment and Ecology</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">ENGL </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">English</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of English and Comparative Literature</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">ENVR </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Environmental Sciences </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Gillings School of Global Public Health</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">EPID </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Epidemiology</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Gillings School of Global Public Health</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">EURO </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">European Studies </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Curriculum in Contemporary European Studies</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">EXSS </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Exercise and Sport Science </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Exercise and Sport Science</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">FOLK </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Folklore</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of American Studies</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">FREN </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">French</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Romance Languages and Literatures</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">GEOG </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Geography</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Geography</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">GEOL </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Geology</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Geology</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">GERM </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">German</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Germanic and Slavic Languages and Literatures</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">GLBL</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Global Studies</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Curriculum in Global Studies</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">GNET </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Genetics and Molecular Biology</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Genetics, UNC School of Medicine</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">GREK </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Greek</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Classics</p></td>
+    </tr>
+    <tr class="Row-Column-7">
+      <td valign="top" class="cell-style-override-1"><p class="body">GSLL</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Germanic and Slavic Languages <br />
+          and Literatures</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Germanic and Slavic Languages and Literatures</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">HBEH </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Health Behavior</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Gillings School of Global Public Health</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">HEBR </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Hebrew</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Asian Studies</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">HIST </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">History</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of History</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">HNRS </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Honors</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Honors Carolina</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">HNUR </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Hindi-Urdu </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Asian Studies</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">HPM </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Health Policy and Management </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Gillings School of Global Public Health</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">HUNG </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Hungarian</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Germanic and Slavic Languages and Literatures</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">IDST </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Interdisciplinary Studies </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Office of Undergraduate Curricula</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">INLS </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Information and Library Science</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">School of Information and Library Science</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">ISP</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Exchange Program</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Study Abroad Office</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">ITAL </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Italian</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Romance Languages and Literatures</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">JAPN </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Japanese</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Asian Studies</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">JOMC </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Journalism and Mass Communication </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">School of Journalism and Mass Communication</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">JWST </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Jewish Studies </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Religious Studies</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">KOR </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Korean</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Asian Studies</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">LATN </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Latin</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Classics</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">LAW </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Law</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">School of Law</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">LFIT </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Lifetime Fitness </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Exercise and Sport Science</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">LGLA </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Lingala </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of African, African American, and Diaspora Studies</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">LING </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Linguistics</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Linguistics</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">LTAM </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Latin American Studies</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Curriculum in Latin American Studies</p></td>
+    </tr>
+    <tr class="Row-Column-8">
+      <td valign="top" class="cell-style-override-1"><p class="body">MACD </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Macedonian</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Germanic and Slavic Languages and Literatures</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">MASC </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Marine Sciences </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Marine Sciences</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">MATH </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Mathematics</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Mathematics</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">MAYA </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Yucatec Maya</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Linguistics</p></td>
+    </tr>
+    <tr class="Row-Column-7">
+      <td valign="top" class="cell-style-override-1"><p class="body">MCRO </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Microbiology</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Microbiology and Immunology, <br />
+          UNC School of Medicine</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">MNGT </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Management and Society </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Sociology</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">MTSC </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Materials Science </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Applied Physical Sciences</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">MUSC </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Music</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Music</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">NAVS </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Naval Science </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Naval Science</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">NBIO </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Neurobiology</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Curriculum in Neurobiology, UNC School of Medicine</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">NURS </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Nursing</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">School of Nursing</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">NUTR </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Nutrition</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Gillings School of Global Public Health</p></td>
+    </tr>
+    <tr class="Row-Column-7">
+      <td valign="top" class="cell-style-override-1"><p class="body">PATH </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Pathology</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Pathology and Laboratory Medicine, <br />
+          UNC School of Medicine</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">PHCO </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Pharmacology </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Pharmacology, UNC School of Medicine</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">PHCY </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Pharmacy</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Eshelman School of Pharmacy</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">PHIL </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Philosophy</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Philosophy</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">PHYA </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Physical Activity </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Exercise and Sport Science</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-7">
+      <td valign="top" class="cell-style-override-1"><p class="body">PHYI </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Cell and Molecular Physiology </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Cell Biology and Physiology, <br />
+          UNC School of Medicine</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">PHYS </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Physics</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Physics and Astronomy</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">PLAN </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">City and Regional Planning </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of City and Regional Planning</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">PLCY </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Public Policy </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Public Policy</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">PLSH </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Polish</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Germanic and Slavic Languages and Literatures</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">POLI </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Political Science </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Political Science</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">PORT </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Portuguese</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Romance Languages and Literatures</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">PRSN </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Persian</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Asian Studies</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">PSYC </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Psychology</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Psychology</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">PUBH </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Public Health</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Gillings School of Global Public Health</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">PWAD</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Peace, War, and Defense </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Curriculum in Peace, War, and Defense</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">RADI</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Radiologic Science </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Division of Radiologic Science, UNC School of Medicine</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">RECR</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Recreation Administration </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Exercise and Sport Science</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">RELI</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Religious Studies </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Religious Studies</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">ROML</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Romance Languages and Literatures </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Romance Languages and Literatures</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">RUES</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Russian and East European Studies</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Curriculum in Russian and East European Area Studies</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">RUSS</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Russian</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Germanic and Slavic Languages and Literatures</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">SECR</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Serbian and Croatian </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Germanic and Slavic Languages and Literatures</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">SLAV</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Slavic Languages </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Germanic and Slavic Languages and Literatures</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">SOCI</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Sociology</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Sociology</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">SOWO</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Social Work</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">School of Social Work</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">SPAN</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Spanish</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Romance Languages and Literatures</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">SPCL</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Special Studies </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Office of Undergraduate Curricula</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">SPHG</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">School of Public Health General</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Gillings School of Global Public Health</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">SPHS</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Speech and Hearing Sciences </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Division of Speech and Hearing Sciences, UNC School of Medicine</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">STOR</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Statistics and Operations Research </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Statistics and Operations Research</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">SWAH</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Kiswahili</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of African, African American, and Diaspora Studies</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">TAML </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Tamil</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Linguistics</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">TOXC</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Toxicology</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Curriculum in Toxicology, UNC School of Medicine</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">TURK</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Turkish</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Asian Studies</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">VIET</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Vietnamese</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Asian Studies</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">WMST</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Women's Studies </p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of Women's and Gender Studies</p></td>
+    </tr>
+    <tr bgcolor="#c4dffa" class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">WOLO</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Wolof</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Department of African, African American, and Diaspora Studies</p></td>
+    </tr>
+    <tr class="Row-Column-6">
+      <td valign="top" class="cell-style-override-1"><p class="body">YAP</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Study Abroad Program</p></td>
+      <td valign="top" class="cell-style-override-1"><p class="body">Study Abroad Office</p></td>
+    </tr>
+  </tbody>
+</table>
+<p></p>
+<p class="body"><a href="#top"><img src="images/top_page.gif" width="70" height="20" border="0" /></a></p>
+<script src="footer.js"></script> 
+

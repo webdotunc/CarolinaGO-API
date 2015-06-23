@@ -2,25 +2,102 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.example.com
 BEGIN:VEVENT
-UID:54ac3ec33c343
-DTSTAMP;TZID=America/New_York:20150106T150003
-DTSTART;TZID=America/New_York:20150107T000000
+UID:554998de7d53d
+DTSTAMP;TZID=America/New_York:20150506T003022
+DTSTART;TZID=America/New_York:20150504T000000
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND;TZID=America/New_York:20150107T235900
+DTEND;TZID=America/New_York:20150504T235900
+LOCATION:Rizzo Conference Center
+SUMMARY:Women in Business:  Transitioning to Leadership
+DESCRIPTION:During this three day UNC Executive Development women’s leadership program, you will enhance your ability to make the transition from managing a team to leading a team. Professional women will learn practical skills to strengthen their impact as leaders and will explore the power of networking and self-marketing.
+END:VEVENT
+BEGIN:VEVENT
+UID:554998de7d651
+DTSTAMP;TZID=America/New_York:20150506T003022
+DTSTART;TZID=America/New_York:20150506T000000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=America/New_York:20150506T235900
+LOCATION:Rizzo Conference Center
+SUMMARY:Financial Analysis for Non-Financial Managers
+DESCRIPTION:Over the course of this three day UNC Executive Development financial education program, you will learn how to interpret and analyze financial reports and gauge financial impact across departments to better understand an organization’s financial position. By the end of the seminar, you will be able to analyze financial and managerial accounting statements and annual [&#8230;]
+END:VEVENT
+BEGIN:VEVENT
+UID:554998de7d6cb
+DTSTAMP;TZID=America/New_York:20150506T003022
+DTSTART;TZID=America/New_York:20150506T000000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=America/New_York:20150506T235900
 LOCATION:Chapel Hill
-SUMMARY:Spring Semester 2015 Classes begin for all students
+SUMMARY:Summer Session I Tuition and fees due
+DESCRIPTION:Students who register before the Billing Date must pay or defer tuition and fees by this date
+END:VEVENT
+BEGIN:VEVENT
+UID:554998de7d742
+DTSTAMP;TZID=America/New_York:20150506T003022
+DTSTART;TZID=America/New_York:20150506T090000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=America/New_York:20150506T160000
+LOCATION:Genome Sciences Building
+SUMMARY:2015 Developmental and Stem Cell Biology Symposium
+DESCRIPTION:Registration is now open for the 2015 Developmental &#38; Stem Cell Biology Symposium! Join us for a day of world-renowned speakers, breakfast and lunch with colleagues, and poster presentations with awards. Speakers include: Dr. Anne Brunet Stanford School of Medicine The African Turquoise Killifish: A New Vertebrate Model for Studying Aging and Evolution of Lifespan [&#8230;]
+END:VEVENT
+BEGIN:VEVENT
+UID:554998de7d7be
+DTSTAMP;TZID=America/New_York:20150506T003022
+DTSTART;TZID=America/New_York:20150506T130000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=America/New_York:20150506T163000
+LOCATION:NC Botanical Garden Education Center
+SUMMARY:Pen and Ink:  Media Exploration
+DESCRIPTION:Kathy Schermer-Gramm, Professional Artist Wednesdays, May 6, 13, 20, 27; 1:00–4:30 pm Cost: $125 ($115 for Members)
+END:VEVENT
+BEGIN:VEVENT
+UID:554998de7d844
+DTSTAMP;TZID=America/New_York:20150506T003022
+DTSTART;TZID=America/New_York:20150506T180000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=America/New_York:20150506T210000
+LOCATION:Boshamer Stadium
+SUMMARY:UNC Baseball vs Elon (Wing Wednesday)
+DESCRIPTION:Check out Wing Wednesday at Boshamer Stadium with $.50 wing specials at the concessions stand. Admission is free for UNC students, faculty, and staff with a valid UNC One Card.
+END:VEVENT
+BEGIN:VEVENT
+UID:554998de7d8b9
+DTSTAMP;TZID=America/New_York:20150506T003022
+DTSTART;TZID=America/New_York:20150506T180000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=America/New_York:20150506T190000
+LOCATION:Chapel Hill
+SUMMARY:Carolina Science Cafe: Net Neutrality – The Devil Is In The Details
+DESCRIPTION:Join us every month for Carolina Science Cafe, Morehead Planetarium and Science Center's free, current science awareness program.
+END:VEVENT
+BEGIN:VEVENT
+UID:554998de7d935
+DTSTAMP;TZID=America/New_York:20150506T003022
+DTSTART;TZID=America/New_York:20150507T100000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=America/New_York:20150507T100000
+LOCATION:Chapel Hill
+SUMMARY:Residence Halls close for non-graduating students at 10 AM
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-UID:54ac3ec33c41d
-DTSTAMP;TZID=America/New_York:20150106T150003
-DTSTART;TZID=America/New_York:20150107T000000
+UID:554998de7d9a9
+DTSTAMP;TZID=America/New_York:20150506T003022
+DTSTART;TZID=America/New_York:20150507T130000
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND;TZID=America/New_York:20150107T235900
-LOCATION:Chapel Hill
-SUMMARY:Late registration begins.
-DESCRIPTION:$20 Fee charged for late registration.
+DTEND;TZID=America/New_York:20150507T150000
+LOCATION:NC Botanical Garden Education Center
+SUMMARY:Principles of Conservation Biology
+DESCRIPTION:Johnny Randall, NCBG Dir. of Conservation Thursdays, Apr 23, 30, May 7, 14; 1:00–3:00 pm Cost: $125 ($115 for Members)
 END:VEVENT
 END:VCALENDAR

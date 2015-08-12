@@ -70,12 +70,33 @@
     
     
     /* Uses regular expressions to get meal and menu station information out of a dining meal page, given the raw HTML*/
-    function getMealDescriptionFromHTML($raw){
-      $url_source = "http://dining2014.csit.unc.edu";
+/*    function getMealDescriptionFromHTML($raw){
       preg_match_all("/<span class=\"(DLMDRecipeName|DLMDMenuStationName)\">[^<]+<\/span>/", $raw, $matches);
       $patterns = array ("/<span class=\"DLMDRecipeName\">([^<]*)<\/span>/","/<span class=\"DLMDMenuStationName\">([^<]*)<\/span>/");
       $replace  = array ("<br>\\1 ","<br><br><b>\\1</b>");
       return implode(preg_replace($patterns, $replace, $matches[0]));
+    }
+*/
+
+    function getMealDescriptionDictionaryFromHTML($file_url){
+      $html = file_get_html($file_url);
+      $meals=[];
+      if($html === FALSE){
+        exit("file_get_contents failed for the provided XML URL:" . $file_url);
+      }
+      foreach($html->find('div[class=menu tab-pane]') as $Meals) {
+        $meal = [];
+        foreach($Meals->find('div[class=stations] div[class=station-wrap]') as $Meal) {
+          $meal_name = $Meal->find('h3',0)->plaintext;
+          $meal[$meal_name] = [];
+          foreach($Meal->find('ul li') as $Food_Item) {
+            var_dump($Food_Item->plaintext);
+            array_push($meal[$meal_name], (string)$Food_Item);
+          }
+        }
+        $meals[(string)$Meals->id] = $meal;
+      }
+      return $meals;
     }
     
     function sanitizeString($raw){
@@ -89,13 +110,15 @@
     function makeDiningCal($file_url, $output_path){{
       include('simple_html_dom.php');
       /* This is VERY important for menu retrieval. This is a URL formatted to retrieve menus from the current dining website. Currently, the first string (%s) is a date (07/07/2014, for example), the second is the location (only Top of Lenoir and Rams Head Dining Hall are supported, I believe), and the third is the particular meal name (which can vary). This is mainly for Lenoir and Rams Head. It is important to change this as soon as any URLs are altered. */
-      $url_format = "http://unc.prod.newmediacampaigns.com/%s";
+      $url_format = $file_url . '%s'.'?date=2015-04-14';
       $dataName = 'data-name';
       $dataOpen = 'data-open';
       $dataClose = 'data-close';
       
       /* This loads the XML string into a raw form. The @ represses any PHP warnings in case the network is down, and if the xml is empty it exits to prevent faulty iCals from being made*/
       $html = file_get_html($file_url);
+      //var_dump($this->getMealDescriptionDictionaryFromHTML($file_url));
+
       if($html === FALSE){
         exit("file_get_contents failed for the provided XML URL:" . $file_url);
       }
@@ -103,6 +126,8 @@
       /* This loops through each individual location in the XML and starts spitting out calendars labeled "dining-?.ics", with the ? being their location id*/
       foreach($html->find('div.location-group div[class=row location]') as $Location) {
         //echo $Location;
+        $meal_url = sprintf($url_format,$Location->find('div.name-wrap h4 a',0)->href);
+        $this->getMealDescriptionDictionaryFromHTML($meal_url);
         $vCalendar = new \Eluceo\iCal\Component\Calendar('www.example.com');
         $Location_Title = $Location->find('div.name-wrap h4 a[href]',0)->plaintext;
         $Location_ID =  $this->sanitizeString($Location->find('div.name-wrap h4 a',0)->href);
